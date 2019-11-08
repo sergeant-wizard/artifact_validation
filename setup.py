@@ -6,4 +6,5 @@ setup(
     description='Keep real world files tractable.',
     author='Ryo Miyajima',
     url='https://github.com/sergeant-wizard/artifact_validation',
+    packages=['artifact_validation'],
 )
